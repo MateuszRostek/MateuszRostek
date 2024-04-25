@@ -1,9 +1,9 @@
 # Hello and welcome to my GitHub!
 
-👋My name is Mateusz Rostek, and it's a pleasure to see you here!👋  
+#### 👋My name is Mateusz Rostek, and it's a pleasure to see you here!👋  
 
 ## About me
-Java Developer☕ | Open to exciting job opportunities | Passionate about continuous learning and growth
+#### Java Developer☕ | Open to exciting job opportunities | Passionate about continuous learning and growth
 
 Motivated and results-oriented **Java Developer** with a strong foundation in **Java Core**, **Spring Boot**, **Hibernate**, **Multithreading**, **Git/Github**, and **SQL**. Eager to further develop in a new team setting and tackle new challenges with enthusiasm. I excel in problem-solving and focus on continuous learning.
 
