@@ -3,7 +3,7 @@
 #### 👋My name is Mateusz Rostek, and it's a pleasure to see you here!👋  
 
 ## About me
-#### Java Developer☕ | Passionate about continuous learning and growth
+#### Java Software Developer☕ | Passionate about continuous learning and growth
 
 Motivated and results-oriented **Java Developer** with a strong foundation in **Java Core**, **Spring Boot**, **Hibernate**, **Multithreading**, **Git/Github**, **SQL** and **NoSQL**. Eager to further develop in a new team setting and tackle new challenges with enthusiasm. I excel in problem-solving and focus on continuous learning.
 
